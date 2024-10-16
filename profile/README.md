@@ -26,6 +26,17 @@ Build services of any scale and complexity. From small workflows to ERP.
 ## Eliminate 100% of tech Hand Coding
 Every line of code in the application costs: it has to be written, tested, updated to the newer version, maintained etc. The more advanced the code is, the more it costs. ObjectReef eliminates such costs, by taking over the most complex parts of the backend infrastructure.
 
+## See examples
+- **[Rooms](https://github.com/HumanDialog/rooms.reef)**<br>
+Example of using ObjectReef is used to book available rooms. 
+It allows searching for rooms in hotels according to assumed criteria such as location, number of beds and accommodation date range.
+
+- **[Pizza](https://github.com/HumanDialog/pizza.reef)**<br>
+Fully functional online pizza ordering business process. The model, based on a simple task management system (Octopus Mini), generates tasks for interested actors (Chef, Pizza Guy, Manager, Customer) and controls their flow between states.
+
+- **[Octopus](https://github.com/HumanDialog/octopus.mini.reef)**<br>
+Simple tasks management. Tasks can be organized in lists and presented as a flat datagrid as well as a kanban board. Each task can have a description, checklist, tags or required completion date. It is also possible to assign responsibility to different people and present tasks assigned to a signed-in user. Tasks as well as entire lists can also be archived.
+
 ## Proven technology
 ObjectReef is the next iteration of a system that for years has been building successive versions of applications that serve the most sensitive applications in high-tech companies around the world on a daily basis.
 
